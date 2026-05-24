@@ -1,6 +1,6 @@
 # Lab 2 — Nginx Reverse Proxy, HTTPS and Backend Connectivity
 
-![1](images/1.png)
+![1](images2/1.png)
 
 ---
 
